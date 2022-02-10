@@ -103,8 +103,17 @@ body {
     font-size: 20px;
 } 
 
-.inpu-couleur{
+.input-couleur{
     height: 38px !important;
 }
+
+.img-products{   
+    width: 100px;
+}
+td {
+  vertical-align: middle !important;
+}
   
-  
+.img-product-update {
+  width: 150px;
+}
